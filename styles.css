@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(255, 242, 207);
+    font-family: 'Schoolbell', cursive;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+.final {
+    margin: 40px;
+    border: none;
+    background: none;
+    font-family: 'Schoolbell', cursive;
+    outline: none;
+    padding: 15px;
+    border-radius: 10px 10px 10px 10px;
+    
+}
+
+.final:hover {
+    background-color: #fcebbb;
+}
+
+p {
+    font-size: 20px;
+}
+
+input {
+    margin-bottom: 25px;
+
+}
+
+.a {
+    margin-left: 20px;
+    margin-top: 100px;
+    text-align: center;
+}
